@@ -1,2 +1,2 @@
-# RGB2GREYSCALE
-ds mini project using flask.
+# videoconverter
+ds mini project
